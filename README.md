@@ -1,2 +1,2 @@
 # Scripts
-Repository to store personal scripts
+Repository to store personal bash scripts
